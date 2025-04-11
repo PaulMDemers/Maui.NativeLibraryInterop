@@ -1,0 +1,3 @@
+namespace MauiTikTokiOS.MaciOS.Binding {
+
+}
